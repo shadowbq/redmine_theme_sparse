@@ -1,5 +1,9 @@
 @import url(../../../stylesheets/application.css);
 
+html > body #content {
+    min-height: 200px;
+}
+
 #header {
    height: 0px;
    display: none;
@@ -19,13 +23,13 @@
     border-right: 1px solid #DDDDDD;
     margin: 0;
     padding: 6px 10px 10px;
-    width: 100%;
+    width: 99%;
     z-index: 10;
 }
 * html #content {
     margin-top: 0;
     padding: 6px 10px 10px;
-    width: 100%;
+    width: 99%;
 }
 
 #query_form {

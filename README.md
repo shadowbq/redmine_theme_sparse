@@ -3,6 +3,8 @@ redmine_theme_sparse
 
 This is the stock [redmine](http://www.redmine.org/) theme but it hides the 'top-menu', the 'header', and the 'sidebar'. 
 
+The theme automatically refreshes every 30 sec, via a full page refresh.
+
 Example Use Case
 ----------
 
@@ -49,10 +51,12 @@ Redmine should now be displayed using the selected theme for this user.
 
 *NOTE:* Navigation requires the user to put the direct links in the url bar.
 
-Global Issues - `https://myredmine.foo.com/issues`
+Static Links to Use
+----------
 
-Future
----------
+Global Issues - `https://redmine.foo.com/issues`
 
-At this time the theme does not automatically refresh, but it will in the future.
+Global Calendar - `https://redmine.foo.com/issues/calendar`
+
+User Profile - `https://redmine.foo.com/my/account`
 
