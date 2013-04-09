@@ -10,6 +10,12 @@ Example Use Case
 
 This theme is very useful for a projector, or flatscreen operation office status view. It should *not* be used as a system wide theme.
 
+### Screenshots
+------------------------
+
+![Overview Screenshot](https://raw.github.com/shadowbq/redmine_theme_sparse/master/screenshots/screenshot-theme.jpg
+ "Overview")
+
 Dependencies
 ---------
 
