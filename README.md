@@ -36,6 +36,14 @@ This would result in a directory-path to application.css like:
 
 You now may need to restart Redmine so that it shows the newly installed theme in the list of available themes.
 
+Create Filters
+-----------
+
+Prior to setting the theme, which is very minimalistic, create and save the filters that the user will view while noting the filter number. 
+
+Using the All Issues default filter: `https://redmine.foo.com/issues?set_filter=1`
+
+
 Set theme for User
 ------------
 
@@ -45,11 +53,11 @@ Navigate to Users Profile (requires themechanger plugin) via `My Account` on the
 
 Select your newly created theme `redmine_theme_sparse` in the "Theme" drop-down list. 
 
-Save your settings.
+*Save your settings.*
 
 Redmine should now be displayed using the selected theme for this user.
 
-*NOTE:* Navigation requires the user to put the direct links in the url bar.
+**NOTE:** Navigation requires the user to put the direct links in the url bar once the theme is applied.
 
 Static Links to Use
 ----------

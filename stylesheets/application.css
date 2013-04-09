@@ -32,6 +32,11 @@ html > body #content {
     width: 99%;
 }
 
+p.other-formats {
+  display: none;
+  height: 0px;
+}
+
 #query_form {
   display: none;
   height: 0px;
